@@ -1,14 +1,12 @@
-
-w-easter_game alias
-vesele velikonoce alias
+ w-easter_game      alias
+ vesele velikonoce  alias
  
  velikonocni strelnice
- ---------------------
+------------------------------------------
  
- ovladani - mys: pohyb
- 	    leve tlacitko: strelba
-	    
-	    escape[Esc]: konec
-	    
------------------------
+ ovladani -  
+             mys: pohyb
+             mys leve tlacitko: strelba
+	     escape[Esc]: konec
+------------------------------------------
 klasicka strelnice s velikonocni tematikou
